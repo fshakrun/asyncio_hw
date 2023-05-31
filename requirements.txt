@@ -1,0 +1,6 @@
+pytest
+aiohttp~=3.8.4
+more-itertools
+sqlalchemy~=2.0.15
+asyncpg
+db~=0.1.1
